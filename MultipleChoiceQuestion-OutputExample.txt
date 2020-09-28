@@ -7,42 +7,48 @@ C: Yellow
 D: Green
 E: Blue
 
-Total Number of Students: 13
+Total Number of Students: 16
 
 Overall Submissions of Each Student: 
-StudentID[#1]: [B, D]
-StudentID[#2]: [B, C, E]
-StudentID[#3]: [A, B, C, D, E]
-StudentID[#4]: [A, B, C, D, E]
-StudentID[#5]: [A, B, E]
-StudentID[#6]: [A, B, C, D]
-StudentID[#7]: [A, B, D, E]
-StudentID[#8]: [A, B, C, D, E]
-StudentID[#9]: [B, D, E]
-StudentID[#10]: [A, B, D, E]
-StudentID[#11]: [A, B, C, D, E]
-StudentID[#12]: [B, D]
-StudentID[#13]: [A, B, C]
-StudentID[#1]: [B, C, D, E]
-StudentID[#11]: [A, B, C, D, E]
-StudentID[#2]: [A, B]
-StudentID[#7]: [A, B, D, E]
-StudentID[#11]: [B, C, D, E]
-StudentID[#1]: [A, B, D, E]
-StudentID[#11]: [A, D]
-StudentID[#10]: [A, B, C, D, E]
 StudentID[#1]: [A, B, C, D, E]
-StudentID[#8]: [B, C, D]
-StudentID[#4]: [B, C, D, E]
-StudentID[#10]: [A, B, C, D, E]
+StudentID[#2]: [A, B, C, D, E]
+StudentID[#3]: [A, B, C, D, E]
+StudentID[#4]: [A, B, C, E]
+StudentID[#5]: [A, B, C, D, E]
 StudentID[#6]: [A, B, C, D, E]
+StudentID[#7]: [A, B, C]
+StudentID[#8]: [A, B, C, D, E]
+StudentID[#9]: [B, D]
+StudentID[#10]: [A, B, C, D]
+StudentID[#11]: [B, D, E]
+StudentID[#12]: [B, E]
+StudentID[#13]: [A, B, D, E]
+StudentID[#14]: [C, E]
+StudentID[#15]: [C, D]
+StudentID[#16]: [A, B, C, D, E]
+StudentID[#5]: [A, E]
+StudentID[#6]: [B, E]
+StudentID[#12]: [B, C, D, E]
+StudentID[#14]: [A, B, C, D, E]
+StudentID[#1]: [A, C, D, E]
+StudentID[#10]: [B, D]
+StudentID[#8]: [A, B, C, D, E]
+StudentID[#14]: [A, B, C, E]
+StudentID[#6]: [A, B, C, D, E]
+StudentID[#2]: [A, D, E]
+StudentID[#9]: [B, C, D]
+StudentID[#15]: [C, E]
+StudentID[#11]: [A, B, C, D, E]
+StudentID[#13]: [A, C, D, E]
+StudentID[#12]: [C, E]
+StudentID[#16]: [A, B, C, D]
 
 Final Submission Results of Each Student (After Multiple Submissions): 
-[{1=[A, B, C, D, E], 2=[A, B], 3=[A, B, C, D, E], 4=[B, C, D, E], 5=[A, B, E], 6=[A, B, C, D, E], 7=[A, B, D, E], 8=[B, C, D], 9=[B, D, E], 10=[A, B, C, D, E], 11=[A, D], 12=[B, D], 13=[A, B, C]}]
+[{1=[A, C, D, E], 2=[A, D, E], 3=[A, B, C, D, E], 4=[A, B, C, E], 5=[A, E], 6=[A, B, C, D, E], 7=[A, B, C], 8=[A, B, C, D, E], 9=[B, C, D], 10=[B, D], 11=[A, B, C, D, E], 12=[C, E], 13=[A, C, D, E], 14=[A, B, C, E], 15=[C, E], 16=[A, B, C, D]}]
 
 Total Results for Each Choice:
-A: 9
-B: 12
-C: 7
+A: 12
+B: 10
+C: 13
 D: 10
-E: 8
+E: 12
