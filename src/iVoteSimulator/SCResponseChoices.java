@@ -9,14 +9,14 @@ package iVoteSimulator;
 
 public class SCResponseChoices implements ResponseChoices {
 
-	// variables for single question choices
-	private String firstChoice = "Right?";
-	private String secondChoice = "Wrong?";
+    // variables for single question choices
+    private String firstChoice = "Right?";
+    private String secondChoice = "Wrong?";
 	
-	// prints out single choice question options
-	public String getResponseChoices() {
-		String scQuestion = "Is it right or wrong to steal from a store?";
-		String choice = "\nChoice 1: " + firstChoice + "\nChoice 2: " + secondChoice;
-		return scQuestion + choice;
-	}
+    // prints out single choice question options
+    public String getResponseChoices() {
+	String scQuestion = "Is it right or wrong to steal from a store?";
+	String choice = "\nChoice 1: " + firstChoice + "\nChoice 2: " + secondChoice;
+	return scQuestion + choice;
+    }
 }
