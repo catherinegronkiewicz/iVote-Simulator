@@ -9,7 +9,7 @@ package iVoteSimulator;
 
 public interface ResponseChoices {
 	
-	// prints out question choices based on single or multiple
-	public String getResponseChoices();
+    // prints out question choices based on single or multiple
+    public String getResponseChoices();
 
 }
