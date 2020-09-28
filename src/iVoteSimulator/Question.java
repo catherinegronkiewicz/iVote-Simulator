@@ -11,12 +11,12 @@ import java.util.ArrayList;
 
 public interface Question {
 	
-	public String getQuestion();
+    public String getQuestion();
 	
-	// store student responses in array list
-	public ArrayList<String> getResponse();
+    // store student responses in array list
+    public ArrayList<String> getResponse();
 	
-	// condition if question is multiple choice or single choice
-	public boolean isMultipleChoice();
+    // condition if question is multiple choice or single choice
+    public boolean isMultipleChoice();
 
 }
