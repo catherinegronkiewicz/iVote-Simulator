@@ -1,0 +1,44 @@
+**** SINGLE CHOICE QUESTION ****
+
+Question: Is it right or wrong to steal from a store?
+Choice 1: Right?
+Choice 2: Wrong?
+
+Total Number of Students: 14
+
+Overall Submissions of Each Student: 
+StudentID[#1]: [Right]
+StudentID[#2]: [Right]
+StudentID[#3]: [Right]
+StudentID[#4]: [Right]
+StudentID[#5]: [Right]
+StudentID[#6]: [Right]
+StudentID[#7]: [Wrong]
+StudentID[#8]: [Right]
+StudentID[#9]: [Right]
+StudentID[#10]: [Wrong]
+StudentID[#11]: [Right]
+StudentID[#12]: [Wrong]
+StudentID[#13]: [Right]
+StudentID[#14]: [Right]
+StudentID[#2]: [Right]
+StudentID[#11]: [Right]
+StudentID[#4]: [Wrong]
+StudentID[#3]: [Right]
+StudentID[#4]: [Right]
+StudentID[#8]: [Right]
+StudentID[#11]: [Right]
+StudentID[#6]: [Right]
+StudentID[#12]: [Wrong]
+StudentID[#3]: [Wrong]
+StudentID[#9]: [Wrong]
+StudentID[#8]: [Wrong]
+StudentID[#13]: [Right]
+StudentID[#3]: [Wrong]
+
+Final Submission Results of Each Student (After Multiple Submissions): 
+[{1=[Right], 2=[Right], 3=[Wrong], 4=[Right], 5=[Right], 6=[Right], 7=[Wrong], 8=[Wrong], 9=[Wrong], 10=[Wrong], 11=[Right], 12=[Wrong], 13=[Right], 14=[Right]}]
+
+Total Results for Each Choice:
+Right:8
+Wrong:6
