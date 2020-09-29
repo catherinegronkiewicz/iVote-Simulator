@@ -55,7 +55,7 @@ public class Student {
     public void sendFinalSubmit(Question q) {
 
 	// if a multiple choice question
-	if(q.isMultipleChoice()) {
+	if (q.isMultipleChoice()) {
 	    // shuffles array list of student responses and deletes random amount of indexes
 	    studentAnswers = new ArrayList<String>(q.getResponse());
 				
